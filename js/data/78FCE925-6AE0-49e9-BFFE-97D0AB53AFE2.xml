@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.7.2:1", "", "Architecture Principles", "EARoot/EA7/EA2/EA4624.htm", "188.png", "525141052", "0", "", "Custom diagram0","{8DC77D88-EB6C-424d-9C66-DEAD0A9385B9}");
+tocTab[tocTab.length] = new Array("0.7.2:2", "", "«Principle» Realistis", "EARoot/EA7/EA2/EA4627.htm", "5.png", "E464165169", "0", "", "Class0","{BD092BD7-2B71-4902-B444-A1D243E2CFB3}");
+tocTab[tocTab.length] = new Array("0.7.2:3", "", "«Principle» Standarisasi", "EARoot/EA7/EA2/EA4628.htm", "5.png", "E2116014513", "0", "", "Class0","{93F85F83-EF83-44b3-8C32-81A2A482FB3B}");
+tocTab[tocTab.length] = new Array("0.7.2:4", "", "«Principle» Fleksibilitas", "EARoot/EA7/EA2/EA4631.htm", "5.png", "E108541077", "0", "", "Class0","{3C2BC8A7-444D-4c6e-B763-2AE17176B128}");
+tocTab[tocTab.length] = new Array("0.7.2:5", "", "«Principle» Kepatuhan", "EARoot/EA7/EA2/EA4632.htm", "5.png", "E1818233585", "0", "", "Class0","{5E9DDB11-506A-4409-93E7-0AD09989396A}");
+tocTab[tocTab.length] = new Array("0.7.2:6", "", "«Principle» Keselarasan", "EARoot/EA7/EA2/EA4633.htm", "5.png", "E1067269100", "0", "", "Class0","{AD18504C-25A2-4984-A4AF-BED536A0A2A0}");
+tocTab[tocTab.length] = new Array("0.7.2:7", "", "«Principle» Konsistensi", "EARoot/EA7/EA2/EA4634.htm", "5.png", "E1191944790", "0", "", "Class0","{B232D0B3-0DF7-4e75-B61E-831A9D5630FB}");

@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.1.8:1", "", "Website UKT Mahasiswa", "EARoot/EA1/EA1/EA8/EA2360.htm", "175.png", "1068823054", "0", "", "Logical diagram0","{174905D2-A2A4-4693-97B2-4D865EBD7152}");
+tocTab[tocTab.length] = new Array("0.1.1.8.1", "1", "Aplikasi UKT", "EARoot/EA1/EA1/EA8/EA1/EA2370.htm", "4.png", "", "", "{02141B50-2480-4349-AECA-3CA57BDE56F9}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.8.2", "1", "Pengembalian UKT", "EARoot/EA1/EA1/EA8/EA2/EA2416.htm", "4.png", "", "", "{095E5DB7-892B-4c67-A837-DA2C3EF9097C}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.8.3", "1", "UKT Keberatan", "EARoot/EA1/EA1/EA8/EA3/EA2447.htm", "4.png", "", "", "{5B046572-AB58-4899-9653-70355069E01A}", "Package");

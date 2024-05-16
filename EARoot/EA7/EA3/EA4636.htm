@@ -1,0 +1,256 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Business Model Canvas</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> Business Model Canvas </h1>
+			<!-- <img class="header_image" src="../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../EA3.htm">Artifacts</a> / <a href="../EA4606.htm">Arsitektur Visi</a> / <a href="EA4638.htm">Business Model Canvas</a> / <a href="EA4636.htm">Business Model Canvas</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../images/175.png" alt="Diagram"/> <a href="EA4636.htm">Business Model Canvas</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4649.htm">Akademisi atau Perguruan Tinggi (Dalam dan Luar Negeri)</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4650.htm">Alumni</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4651.htm">Anggaran</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4652.htm">APBN</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4653.htm">Bank Mitra</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4654.htm">Belanja Modal</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4655.htm">Belanja Operasional dan Non Modal Lainnya</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4656.htm">BUMN</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4662.htm">Dosen</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4663.htm">Email</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4664.htm">Informasi dan Data</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4665.htm">Information Technology, Business Development, and Corporate Planning</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4666.htm">Infrastruktur</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4667.htm">Instant Messaging(WA, Telegram, Messenger)</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4671.htm">Korporasi (Dalam dan Luar Negeri)</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4672.htm">Kurikulum  </a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4673.htm">Lembaga (Dalam dan Luar Negeri)</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4674.htm">Lembaga Akreditasi dan Sertifikasi</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4675.htm">Lembaga Pemerintahan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4676.htm">Lembaga Pendidikan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4685.htm">Mahasiswa</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4641.htm">Masyarakat</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4686.htm">Masyarakat</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4687.htm">Media Massa</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4688.htm">Memiliki Publikasi di Jurnal bereputasi terindeks Scopus terbaik</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4689.htm">Offline: Kegiatan Perkuliahan, Riset, dan Hubungan Masyarakat, Job Fair Undip</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4690.htm">Online: SIAP Undip, Kuliah Online, Social Media, Situs Undip, Beasiswa, Program Kampus Merdeka</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4691.htm">Pemerintah (Pusat dan Daerah)</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4692.htm">Pengelola Sumber Daya Manusia</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4693.htm">Pengelolaan Akademik dan Kemahasiswaan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4642.htm">Pengelolaan Bisnis dan Usaha Komersial</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4694.htm">Pengelolaan Keuangan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4695.htm">Pengelolaan Pemasaran</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4696.htm">Pengelolaan Riset dan Inovasi</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4697.htm">Pengelolaan Sumber Daya Manusia</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4643.htm">Peraturan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4698.htm">Peringkat 3 dalam QS World Graduate Employability Ranking</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4699.htm">Perolehan Hak Paten Terbaik nomor 4 yang diakui secara Nasional</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4700.htm">Perusahaan Swasta</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4644.htm">Prestasi Mahasiswa di Tingkat Nasional (PIMNAS) yang Baik</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4701.htm">PTN-BH 10 Besar Terbaik berdasarkan Kemenristekdikti</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4702.htm">Rencana Strategis</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4704.htm">Salah satu Universitas Terbaik di Indonesia (Akreditasi A oleh BAN-PT)</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4645.htm">Salah satu Universitas yang memiliki Pengabdian Masyarakat Terbaik</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4646.htm">SDM</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4705.htm">Selain APBN</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4647.htm">SILPA</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4706.htm">Social Media(Facebook, Twitter, Instagram)  </a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4707.htm">Telepon</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4709.htm">Website (www.undip.ac.id)</a></li>
+<li><img src="../../../images/82.png" alt="Artifact"/> <a href="EA4648.htm"></a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA4637.png" usemap="#EA4637" border="0" />
+
+<MAP NAME="EA4637">
+<area shape="rect" coords="51,847,276,907" href="EA4641.htm" target="_self">
+<area shape="rect" coords="589,859,790,933" href="EA4645.htm" target="_self">
+<area shape="rect" coords="590,758,791,832" href="EA4644.htm" target="_self">
+<area shape="rect" coords="445,707,553,756" href="EA4643.htm" target="_self">
+<area shape="rect" coords="445,645,553,694" href="EA4646.htm" target="_self">
+<area shape="rect" coords="322,418,546,478" href="EA4642.htm" target="_self">
+<area shape="rect" coords="636,25,710,112" href="EA4640.htm" target="_self">
+<area shape="rect" coords="320,707,428,756" href="EA4666.htm" target="_self">
+<area shape="rect" coords="1207,984,1297,1055" href="EA4683.htm" target="_self">
+<area shape="rect" coords="733,982,823,1053" href="EA4678.htm" target="_self">
+<area shape="rect" coords="981,496,1077,564" href="EA4677.htm" target="_self">
+<area shape="rect" coords="471,576,556,640" href="EA4682.htm" target="_self">
+<area shape="rect" coords="1202,181,1296,253" href="EA4680.htm" target="_self">
+<area shape="rect" coords="992,180,1082,251" href="EA4679.htm" target="_self">
+<area shape="rect" coords="460,180,554,245" href="EA4681.htm" target="_self">
+<area shape="rect" coords="709,180,799,251" href="EA4684.htm" target="_self">
+<area shape="rect" coords="1114,847,1290,898" href="EA4656.htm" target="_self">
+<area shape="rect" coords="51,592,276,652" href="EA4653.htm" target="_self">
+<area shape="rect" coords="51,507,276,567" href="EA4649.htm" target="_self">
+<area shape="rect" coords="322,338,546,398" href="EA4696.htm" target="_self">
+<area shape="rect" coords="322,253,546,315" href="EA4693.htm" target="_self">
+<area shape="rect" coords="590,253,791,327" href="EA4704.htm" target="_self">
+<area shape="rect" coords="1114,763,1290,814" href="EA4700.htm" target="_self">
+<area shape="rect" coords="1114,679,1290,730" href="EA4675.htm" target="_self">
+<area shape="rect" coords="1114,595,1290,646" href="EA4676.htm" target="_self">
+<area shape="rect" coords="1114,511,1290,562" href="EA4686.htm" target="_self">
+<area shape="rect" coords="1114,427,1290,478" href="EA4650.htm" target="_self">
+<area shape="rect" coords="961,564,1080,624" href="EA4707.htm" target="_self">
+<area shape="rect" coords="590,657,791,731" href="EA4698.htm" target="_self">
+<area shape="rect" coords="320,893,553,942" href="EA4651.htm" target="_self">
+<area shape="rect" coords="319,830,552,879" href="EA4664.htm" target="_self">
+<area shape="rect" coords="320,645,428,694" href="EA4672.htm" target="_self">
+<area shape="rect" coords="320,769,553,818" href="EA4702.htm" target="_self">
+<area shape="rect" coords="182,180,266,241" href="EA4648.htm" target="_self">
+<area shape="rect" coords="1122,1059,1248,1108" href="EA4705.htm" target="_self">
+<area shape="rect" coords="590,556,791,630" href="EA4699.htm" target="_self">
+<area shape="rect" coords="901,1059,1027,1108" href="EA4652.htm" target="_self">
+<area shape="rect" coords="844,975,1306,1134" href="EA4703.htm" target="_self">
+<area shape="rect" coords="487,1059,696,1108" href="EA4655.htm" target="_self">
+<area shape="rect" coords="201,1059,340,1108" href="EA4654.htm" target="_self">
+<area shape="rect" coords="37,974,833,1133" href="EA4659.htm" target="_self">
+<area shape="rect" coords="1114,343,1290,394" href="EA4662.htm" target="_self">
+<area shape="rect" coords="1114,259,1290,310" href="EA4685.htm" target="_self">
+<area shape="rect" coords="1099,156,1305,955" href="EA4661.htm" target="_self">
+<area shape="rect" coords="828,778,1080,844" href="EA4706.htm" target="_self">
+<area shape="rect" coords="828,702,1080,768" href="EA4667.htm" target="_self">
+<area shape="rect" coords="828,564,947,624" href="EA4663.htm" target="_self">
+<area shape="rect" coords="828,634,1080,692" href="EA4709.htm" target="_self">
+<area shape="rect" coords="817,475,1090,955" href="EA4658.htm" target="_self">
+<area shape="rect" coords="834,358,1074,453" href="EA4690.htm" target="_self">
+<area shape="rect" coords="834,253,1074,348" href="EA4689.htm" target="_self">
+<area shape="rect" coords="818,160,1090,466" href="EA4660.htm" target="_self">
+<area shape="rect" coords="590,455,791,529" href="EA4688.htm" target="_self">
+<area shape="rect" coords="590,354,791,428" href="EA4701.htm" target="_self">
+<area shape="rect" coords="570,160,808,955" href="EA4708.htm" target="_self">
+<area shape="rect" coords="304,536,561,956" href="EA4670.htm" target="_self">
+<area shape="rect" coords="305,160,562,527" href="EA4668.htm" target="_self">
+<area shape="rect" coords="51,762,276,822" href="EA4687.htm" target="_self">
+<area shape="rect" coords="51,422,276,482" href="EA4674.htm" target="_self">
+<area shape="rect" coords="51,252,276,312" href="EA4691.htm" target="_self">
+<area shape="rect" coords="51,677,276,737" href="EA4671.htm" target="_self">
+<area shape="rect" coords="51,337,276,397" href="EA4673.htm" target="_self">
+<area shape="rect" coords="37,161,294,956" href="EA4669.htm" target="_self">
+<area shape="rect" coords="19,129,1326,1164" href="EA4657.htm" target="_self">
+<area shape="rect" coords="10,10,1339,1174" href="EA4639.htm" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">Business Model Canvas : Class diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">3/4/2018 11:41:15 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">3/24/2024 1:46:35 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Gracenda</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{496D6E3D-40C8-4de0-AF2C-15E030985C1E}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.1.1:1", "", "Application Catalog", "EARoot/EA1/EA1/EA83.htm", "175.png", "135468895", "0", "", "Logical diagram0","{3614E92D-663D-4af7-A619-236D5869F38F}");
+tocTab[tocTab.length] = new Array("0.1.1:2", "", "Application Diagram", "EARoot/EA1/EA1/EA85.htm", "175.png", "815295725", "0", "", "Logical diagram0","{38B94E48-160E-48c1-98B2-5EAA130C5389}");
+tocTab[tocTab.length] = new Array("0.1.1:3", "", "«ModelView» List of Elements in Package Application", "EARoot/EA1/EA1/EA90.htm", "5.png", "E1329263633", "0", "", "Class0","{87164EAC-9940-4920-AA2B-61C9F73B437E}");
+tocTab[tocTab.length] = new Array("0.1.1.1", "1", "Aplikasi Registrasi Konseling", "EARoot/EA1/EA1/EA1/EA111.htm", "4.png", "", "", "{F189CC17-C118-4c78-BB40-5135B402B308}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.2", "1", "Aplikasi Tracer Study Mahasiswa", "EARoot/EA1/EA1/EA2/EA219.htm", "4.png", "", "", "{D10029CC-914A-4058-946D-2494ACD7FDDE}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.3", "1", "SI-BAK", "EARoot/EA1/EA1/EA3/EA465.htm", "4.png", "", "", "{6256A1AE-C531-4538-89D9-5D3C0DBFE7CB}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4", "1", "SIAP", "EARoot/EA1/EA1/EA4/EA746.htm", "4.png", "", "", "{5E585692-B186-4144-B916-0206E10836ED}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.5", "1", "Website Kemahasiswaan", "EARoot/EA1/EA1/EA5/EA1777.htm", "4.png", "", "", "{4EBDE9FF-A457-431f-99DF-E5F800C7788C}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.6", "1", "Website Prestasi Mahasiswa", "EARoot/EA1/EA1/EA6/EA1905.htm", "4.png", "", "", "{62138DAE-A40A-4032-9939-2CFFA796C522}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.7", "1", "Website Registasi Mahasiswa", "EARoot/EA1/EA1/EA7/EA2336.htm", "4.png", "", "", "{49496C8B-20F7-479b-94BF-73E0516AEEA1}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.8", "1", "Website UKT Mahasiswa", "EARoot/EA1/EA1/EA8/EA2362.htm", "4.png", "", "", "{20CC57B1-218A-4217-AE85-77821146C148}", "Package");

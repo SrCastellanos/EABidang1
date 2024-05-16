@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.1.1.3.2:1", "", "Class SIBAK", "EARoot/EA1/EA1/EA3/EA2/EA498.htm", "175.png", "1582110698", "0", "", "Logical diagram0","{FC73ED9B-BA01-469a-803F-0AD6FB7B464A}");
+tocTab[tocTab.length] = new Array("0.1.1.3.2:2", "", "Admin", "EARoot/EA1/EA1/EA3/EA2/EA501.htm", "5.png", "E1700609998", "0", "", "Class0","{30CE7028-271C-4f7a-ABE8-F0E595CB3E77}");
+tocTab[tocTab.length] = new Array("0.1.1.3.2:3", "", "Akun", "EARoot/EA1/EA1/EA3/EA2/EA502.htm", "5.png", "E344074725", "0", "", "Class0","{6A791B09-6CAE-4d3c-807B-2E838CDBC0E6}");
+tocTab[tocTab.length] = new Array("0.1.1.3.2:4", "", "Biro Akademik dan Kemahasiswaan", "EARoot/EA1/EA1/EA3/EA2/EA503.htm", "5.png", "E889525693", "0", "", "Class0","{55705F6C-98D0-4147-AFF2-30E1A8B66629}");
+tocTab[tocTab.length] = new Array("0.1.1.3.2:5", "", "Buat Surat", "EARoot/EA1/EA1/EA3/EA2/EA504.htm", "5.png", "E1948457709", "0", "", "Class0","{D2DDD941-BB70-4566-A0C8-A7EA33EE599B}");
+tocTab[tocTab.length] = new Array("0.1.1.3.2:6", "", "Mahasiswa/Ormawa", "EARoot/EA1/EA1/EA3/EA2/EA505.htm", "5.png", "E993962930", "0", "", "Class0","{2D508547-5DC0-4602-9DF0-F515D3111E63}");
+tocTab[tocTab.length] = new Array("0.1.1.3.2:7", "", "Menu Guest", "EARoot/EA1/EA1/EA3/EA2/EA506.htm", "5.png", "E691344852", "0", "", "Class0","{8CDD9518-AA7B-458e-BF7E-D5B414C331AC}");
+tocTab[tocTab.length] = new Array("0.1.1.3.2:8", "", "Menu Login", "EARoot/EA1/EA1/EA3/EA2/EA507.htm", "5.png", "E1679198468", "0", "", "Class0","{585EDE40-7C06-41ab-A013-4D934F915B6A}");
+tocTab[tocTab.length] = new Array("0.1.1.3.2:9", "", "Menu Mengurus Surat", "EARoot/EA1/EA1/EA3/EA2/EA508.htm", "5.png", "E2102913155", "0", "", "Class0","{962C0D3E-AC67-492e-8E59-F94BADF1675F}");
+tocTab[tocTab.length] = new Array("0.1.1.3.2:10", "", "Menu Pengurus", "EARoot/EA1/EA1/EA3/EA2/EA509.htm", "5.png", "E596038474", "0", "", "Class0","{76009A8F-3984-48fd-A319-9FBFEBDAB26D}");
+tocTab[tocTab.length] = new Array("0.1.1.3.2:11", "", "SI-BAK", "EARoot/EA1/EA1/EA3/EA2/EA510.htm", "5.png", "E1798159501", "0", "", "Class0","{E17A80BF-3D43-4e70-83EB-64C69BEF2BB2}");
+tocTab[tocTab.length] = new Array("0.1.1.3.2:12", "", "Track Surat", "EARoot/EA1/EA1/EA3/EA2/EA511.htm", "5.png", "E1675834291", "0", "", "Class0","{E9F188DF-491E-4684-BFAE-865D52D1728F}");

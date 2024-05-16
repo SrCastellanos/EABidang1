@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.1.1.3.3:1", "", "Data Logical Diagram SI-BAK", "EARoot/EA1/EA1/EA3/EA3/EA512.htm", "175.png", "1547808682", "0", "", "Logical diagram0","{700057A5-174C-4146-95BE-3221D5D3C166}");
+tocTab[tocTab.length] = new Array("0.1.1.3.3:2", "", "Anggaran", "EARoot/EA1/EA1/EA3/EA3/EA515.htm", "5.png", "E1183865410", "0", "", "Class0","{7AC068C0-664D-4fa5-95FA-805E0D0185D0}");
+tocTab[tocTab.length] = new Array("0.1.1.3.3:3", "", "Balasan Surat", "EARoot/EA1/EA1/EA3/EA3/EA517.htm", "5.png", "E1803002286", "0", "", "Class0","{0DF4BFE0-7471-4f1d-89BC-89287E5743CF}");
+tocTab[tocTab.length] = new Array("0.1.1.3.3:4", "", "Buat Permohonan", "EARoot/EA1/EA1/EA3/EA3/EA518.htm", "5.png", "E399167710", "0", "", "Class0","{61BB4AA4-80F0-4d0b-A391-F62E604AA0CD}");
+tocTab[tocTab.length] = new Array("0.1.1.3.3:5", "", "Data Admin dan Petugas", "EARoot/EA1/EA1/EA3/EA3/EA519.htm", "5.png", "E356257341", "0", "", "Class0","{856BB576-078F-4785-AC8A-4236653113FA}");
+tocTab[tocTab.length] = new Array("0.1.1.3.3:6", "", "Data Diri", "EARoot/EA1/EA1/EA3/EA3/EA520.htm", "5.png", "E1216837068", "0", "", "Class0","{575E5BF4-F20A-4dce-9F0E-BA8C01888E0A}");
+tocTab[tocTab.length] = new Array("0.1.1.3.3:7", "", "Data Surat", "EARoot/EA1/EA1/EA3/EA3/EA521.htm", "5.png", "E419540285", "0", "", "Class0","{F6EA0B3E-385C-425e-86A6-E599CA7786F6}");
+tocTab[tocTab.length] = new Array("0.1.1.3.3:8", "", "Kontak", "EARoot/EA1/EA1/EA3/EA3/EA522.htm", "5.png", "E338182644", "0", "", "Class0","{4289CCE0-4302-43b8-ADE4-3988525E2B2C}");
+tocTab[tocTab.length] = new Array("0.1.1.3.3:9", "", "Password", "EARoot/EA1/EA1/EA3/EA3/EA527.htm", "5.png", "E857753399", "0", "", "Class0","{D2C4C661-0449-4579-ADAC-074D7FF17D4C}");
+tocTab[tocTab.length] = new Array("0.1.1.3.3:10", "", "Status Surat", "EARoot/EA1/EA1/EA3/EA3/EA530.htm", "5.png", "E1632261416", "0", "", "Class0","{4F60987A-6B19-427f-A92A-327C2868D3AD}");
+tocTab[tocTab.length] = new Array("0.1.1.3.3:11", "", "Surat Balasan", "EARoot/EA1/EA1/EA3/EA3/EA531.htm", "5.png", "E1744040953", "0", "", "Class0","{794BFB77-E53B-4df6-86D0-8A2263E4EF81}");
+tocTab[tocTab.length] = new Array("0.1.1.3.3:12", "", "Surat/Proposal Permohonan", "EARoot/EA1/EA1/EA3/EA3/EA532.htm", "5.png", "E481196260", "0", "", "Class0","{5680164C-495D-40b9-AD6C-86B5F5377291}");
+tocTab[tocTab.length] = new Array("0.1.1.3.3:13", "", "Username", "EARoot/EA1/EA1/EA3/EA3/EA533.htm", "5.png", "E1852471466", "0", "", "Class0","{C2483AFB-F493-4678-8C3C-6579DC0455DC}");

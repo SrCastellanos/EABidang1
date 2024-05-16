@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Actor Catalog</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> Actor Catalog </h1>
+			<!-- <img class="header_image" src="../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../EA3.htm">Artifacts</a> / <a href="../EA2831.htm">Arsitektur Bisnis</a> / <a href="EA2858.htm">Actor Catalog</a> / <a href="EA2856.htm">Actor Catalog</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../images/175.png" alt="Diagram"/> <a href="EA2856.htm">Actor Catalog</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA2874.htm">List of Elements in Package Actor Catalog</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2859.htm">Ahli Waris</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2860.htm">Bagian IT Undip</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2861.htm">Bagian Kemahasiswaan</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2862.htm">Bagian Keuangan</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2904.htm">Bendahara Bidang I</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2863.htm">Biro Akademik dan Kemahasiswaan</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2864.htm">Biro Umum dan Keuangan</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2865.htm">Calon Mahasiswa</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2866.htm">Dekan Fakultas</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2905.htm">Direktur Akademik dan Kemahasiswaan</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2867.htm">Dosen Pembimbing/Kaprodi</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2868.htm">Fakultas</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2869.htm">Kelompok Kerja Fakultas</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2870.htm">Kepala Bagian Kemahasiswaan</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2871.htm">Kepala Biro Akademik dan Kemahasiswaan</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2872.htm">Ketua LP2MP</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2873.htm">Konselor</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2875.htm">LP2MP</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2876.htm">Mahasiswa</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2906.htm">Manager MAWA</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2877.htm">Manajer Bagian Keuangan</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2878.htm">Manajer LP2MP</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2879.htm">Operator Fakultas</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2880.htm">Operator LP2MP</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2881.htm">Organisasi Mahasiswa</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2882.htm">Pemberi Beasiswa</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2883.htm">Perusahaan Magang</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2907.htm">Petugas Fasilitas</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2884.htm">Program Studi S1</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2885.htm">Program Studi S2 Tujuan</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2908.htm">PUMK Bagian MAWA</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2886.htm">Rektor</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2887.htm">Reviewer</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2888.htm">Staff BAK</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2889.htm">Sub Bagian Hukum, Organisasi, dan Tata Laksana</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2890.htm">Sub Bagian Pendidikan dan Pengajaran</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2891.htm">Sub Bagian Registrasi dan Mutasi Mahasiswa</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2892.htm">Subbagian Kesejahteraan Mahasiswa dan Layanan Alumni</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2893.htm">Subbagian Pembinaan Karir, Layanan dan Informasi Kemahasiswaan</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2909.htm">Subbagian Pengembangan Minat, Penalaran dan Prestasi Mahasiswa </a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2894.htm">Supervisor Pendidikan dan Pengajaran</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2910.htm">Supervisor Pengembangan Minat, Penalaran dan Prestasi Mahasiswa</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2895.htm">Tim Konversi</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2896.htm">Tim Pelaksana</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2897.htm">Tim Pendikar</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2898.htm">Tim Pengadaan Atribut</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2899.htm">Tim PIC</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2900.htm">UCCP</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2901.htm">Wakil Dekan 1 Fakultas</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2902.htm">Wakil Rektor 1</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA2903.htm">Wakil Rektor 2</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA2857.png" usemap="#EA2857" border="0" />
+
+<MAP NAME="EA2857">
+<area shape="rect" coords="10,10,700,345" href="EA2874.htm" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">Actor Catalog : Class diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">12/28/2023 9:20:26 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">2/23/2024 1:28:38 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">windows</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{2B3168D1-ABE1-4479-8A97-03C207F29410}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

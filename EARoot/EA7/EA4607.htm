@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Organization Decomposition Diagram</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> Organization Decomposition Diagram </h1>
+			<!-- <img class="header_image" src="../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../EA3.htm">Artifacts</a> / <a href="EA4606.htm">Arsitektur Visi</a> / <a href="./EA4/EA4712.htm">Organization Decomposition Diagram</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../images/175.png" alt="Diagram"/> <a href="./EA4/EA4710.htm">Organization Decomposition Diagram</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4713.htm">Badan Pengelola Usaha, Bisnis, Komersial dan Analisis Resiko</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4714.htm">Badan Pengembangan SDM</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4715.htm">Badan Perencanaan dan Pengembangan</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4716.htm">Biro Akademik dan Kemahasiswaan</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4717.htm">Biro Inovasi dan Kerja Sama</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4718.htm">Biro Komunikasi dan Bisnis</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4719.htm">Biro Umum dan Keuangan</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4720.htm">Dekan Fakultas/Sekolah</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4721.htm">Dewan Penasihat  Universitas</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4722.htm">Direktorat Akademik, Kemahasiswaan dan Alumni</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4723.htm">Direktorat Aset dan Perancangan</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4724.htm">Direktorat Inovasi dan Kerja Sama Industri</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4725.htm">Direktorat Keuangan dan Akuntansi</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4726.htm">Direktorat Science Techno Park</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4727.htm">Direktorat Teknologi Informasi, Komunikasi dan Pelaporan</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4728.htm">Kantor Hukum</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4729.htm">Kantor Kawasan Hutan</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4730.htm">Kantor Kearsipan</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4731.htm">Kantor Pemeringkatan</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4732.htm">Kantor Pengadaan Barang dan Jasa</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4733.htm">Kantor Sekretariat dan Protokoler Universitas</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4734.htm">Kantor Urusan Internasional</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4735.htm">LP PSDKU</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4736.htm">LP2MP</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4737.htm">LPPM</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4738.htm">Manager Tata Usaha</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4739.htm">Rektor</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4740.htm">RSND</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4741.htm">SPI</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4742.htm">UPT K3L</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4743.htm">UPT Lab Terpadu</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4744.htm">UPT Perpustakaan dan UNDIP Press</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4745.htm">Wakil Dekan Akademik dan Kemahasiswaan</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4746.htm">Wakil Dekan Sumber Daya</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4747.htm">Wakil Rektor I</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4748.htm">Wakil Rektor II</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4749.htm">Wakil Rektor III</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA4/EA4750.htm">Wakil Rektor IV</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="pageHeader"></div>
+<div class="PageBody">
+	<span class="ObjectTitle">Organization Decomposition Diagram  : Public   Package</span>
+	<table border="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">10/9/2023 2:54:42 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">3/25/2024 2:04:38 AM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Pascalis Insan</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" >Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{AA9F0B59-493F-4b3c-84FD-83C6A2236BC8}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+	</table>
+	
+ </div>
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

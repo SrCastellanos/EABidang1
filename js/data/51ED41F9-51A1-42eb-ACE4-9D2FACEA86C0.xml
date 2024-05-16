@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.7.1", "1", "Architecture Goals", "EARoot/EA7/EA1/EA4615.htm", "4.png", "", "", "{2BD34CC6-1A28-40ad-A89B-56FC4C8B8788}", "Package");
+tocTab[tocTab.length] = new Array("0.7.2", "1", "Architecture Principles", "EARoot/EA7/EA2/EA4626.htm", "4.png", "", "", "{78FCE925-6AE0-49e9-BFFE-97D0AB53AFE2}", "Package");
+tocTab[tocTab.length] = new Array("0.7.3", "1", "Business Model Canvas", "EARoot/EA7/EA3/EA4638.htm", "4.png", "", "", "{E9C746E5-2818-4dfb-85DC-365715B12BFE}", "Package");
+tocTab[tocTab.length] = new Array("0.7.4", "1", "Organization Decomposition Diagram", "EARoot/EA7/EA4/EA4712.htm", "4.png", "", "", "{AA9F0B59-493F-4b3c-84FD-83C6A2236BC8}", "Package");
+tocTab[tocTab.length] = new Array("0.7.5", "1", "Value Chain Diagrams", "EARoot/EA7/EA5/EA4756.htm", "4.png", "", "", "{865AE678-339C-404b-9C0C-E6DA711CAC33}", "Package");
+tocTab[tocTab.length] = new Array("0.7.6", "1", "Vision & Mission", "EARoot/EA7/EA6/EA4767.htm", "4.png", "", "", "{5E5B8EEB-F82A-4e7d-AD93-6E7CF3B50760}", "Package");

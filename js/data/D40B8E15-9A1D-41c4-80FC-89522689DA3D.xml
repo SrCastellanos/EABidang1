@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.1.1.4.15:1", "", "UC SIAP Interfacing KULON", "EARoot/EA1/EA1/EA4/EA15/EA1677.htm", "175.png", "1846218191", "0", "", "Logical diagram0","{8C234A27-745F-4e5c-8AC4-7B6F7BEF711D}");
+tocTab[tocTab.length] = new Array("0.1.1.4.15:2", "", "UC SIAP Interfacing KULON", "EARoot/EA1/EA1/EA4/EA15/EA1679.htm", "180.png", "2134814021", "0", "", "Use Case diagram0","{20E0DE27-58ED-4d75-8251-8EA43A2380EB}");
+tocTab[tocTab.length] = new Array("0.1.1.4.15:3", "", "Class1", "EARoot/EA1/EA1/EA4/EA15/EA1683.htm", "5.png", "E1497708041", "0", "", "Class0","{E460E3CF-728E-4c7a-B333-82D31CC9FCD5}");
+tocTab[tocTab.length] = new Array("0.1.1.4.15:4", "", "Detail Jadwal(View)", "EARoot/EA1/EA1/EA4/EA15/EA1684.htm", "5.png", "E236333345", "0", "", "Class0","{BB82246C-C329-40e3-B2AA-DC595D00DFE8}");
+tocTab[tocTab.length] = new Array("0.1.1.4.15:5", "", "Kuliah(Controller)", "EARoot/EA1/EA1/EA4/EA15/EA1685.htm", "5.png", "E9689545", "0", "", "Class0","{81AC7AB8-03DE-4b84-AF36-A76C2DCA5D39}");
+tocTab[tocTab.length] = new Array("0.1.1.4.15:6", "", "Modal Cek Kulon(View)", "EARoot/EA1/EA1/EA4/EA15/EA1686.htm", "5.png", "E2138710154", "0", "", "Class0","{54D44938-5345-4988-9948-7E60FE03B626}");
+tocTab[tocTab.length] = new Array("0.1.1.4.15.1", "1", "Actors", "EARoot/EA1/EA1/EA4/EA15/EA1/EA1689.htm", "4.png", "", "", "{25E00E79-86B4-41cd-8225-0C9DD534E7EC}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.15.2", "1", "Use Cases", "EARoot/EA1/EA1/EA4/EA15/EA2/EA1699.htm", "4.png", "", "", "{D7B01620-F1F7-4c24-B055-D19A39164B6D}", "Package");

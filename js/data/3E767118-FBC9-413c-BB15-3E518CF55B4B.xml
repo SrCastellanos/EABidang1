@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.6.3:1", "", "Technology Principles", "EARoot/EA6/EA3/EA4595.htm", "188.png", "720806247", "0", "", "Custom diagram0","{5B442189-9F97-43be-A1F3-9A7EB3578E60}");
+tocTab[tocTab.length] = new Array("0.6.3:2", "", "«Principle» Interoperabilitas", "EARoot/EA6/EA3/EA4598.htm", "5.png", "E48408756", "0", "", "Class0","{2FD577B5-7E8B-4457-8CE9-904D1A430CC2}");
+tocTab[tocTab.length] = new Array("0.6.3:3", "", "«Principle» Interoperabilitas", "EARoot/EA6/EA3/EA4602.htm", "5.png", "E1290211955", "0", "", "Class0","{9C345617-F74A-4d20-A654-5AFD7CC37DD7}");
+tocTab[tocTab.length] = new Array("0.6.3:4", "", "«Principle» Pemanfaatan Teknolgi Terkini", "EARoot/EA6/EA3/EA4603.htm", "5.png", "E232103939", "0", "", "Class0","{C396E981-E186-469a-9836-820DA6611C58}");
+tocTab[tocTab.length] = new Array("0.6.3:5", "", "«Principle» Perubahan Sesuai Kebutuhan", "EARoot/EA6/EA3/EA4604.htm", "5.png", "E814222502", "0", "", "Class0","{D8DD2474-E39B-4824-9294-82AEEB52C13F}");

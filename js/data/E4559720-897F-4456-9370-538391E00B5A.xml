@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.4.2.1:1", "", "Keamanan Sistem Penghubung Layanan", "EARoot/EA4/EA2/EA1/EA4394.htm", "189.png", "682733014", "0", "", "Analysis diagram0","{CF50EA12-3435-48ae-970E-221EF93A1279}");
+tocTab[tocTab.length] = new Array("0.4.2.1:2", "", "«Activity» Keamanan api dan web service", "EARoot/EA4/EA2/EA1/EA4399.htm", "4C9380A5-0_Activity.png", "E250655558", "0", "", "Activity0","{41B5ACE8-466A-417f-99DD-5C5C5F5A26B9}");
+tocTab[tocTab.length] = new Array("0.4.2.1:3", "", "«Activity» Keamanan interoperabilitas data dan informasi", "EARoot/EA4/EA2/EA1/EA4401.htm", "4C9380A5-0_Activity.png", "E1678731687", "0", "", "Activity0","{2E1D982D-1F96-4574-B266-1B478EA49ABF}");
+tocTab[tocTab.length] = new Array("0.4.2.1:4", "", "«Activity» Keamanan migrasi data.", "EARoot/EA4/EA2/EA1/EA4403.htm", "4C9380A5-0_Activity.png", "E1148196697", "0", "", "Activity0","{9339D06A-C6FF-41fa-A47E-70C4F19D307C}");
+tocTab[tocTab.length] = new Array("0.4.2.1:5", "", "«Activity» Kontrol perangkat integrator", "EARoot/EA4/EA2/EA1/EA4406.htm", "4C9380A5-0_Activity.png", "E598830185", "0", "", "Activity0","{838979BF-32D2-42e5-8AAF-D0AD8B9E0144}");
+tocTab[tocTab.length] = new Array("0.4.2.1:6", "", "«Activity» Kontrol sistem integrasi", "EARoot/EA4/EA2/EA1/EA4408.htm", "4C9380A5-0_Activity.png", "E1331127848", "0", "", "Activity0","{C03B328D-5B15-43cb-8907-01B9BA08DB86}");
+tocTab[tocTab.length] = new Array("0.4.2.1.1", "1", "Keamanan api dan web service", "EARoot/EA4/EA2/EA1/EA1/EA4412.htm", "4.png", "", "", "{62CBDB28-8BC8-455c-BEA4-10C194515497}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.1.2", "1", "Keamanan interoperabilitas data dan informasi", "EARoot/EA4/EA2/EA1/EA2/EA4422.htm", "4.png", "", "", "{3118894E-62E5-4706-AD27-C56666E2CC56}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.1.3", "1", "Keamanan migrasi data.", "EARoot/EA4/EA2/EA1/EA3/EA4430.htm", "4.png", "", "", "{106CF49F-6505-4521-A9DE-3B019C0E8F0C}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.1.4", "1", "Kontrol perangkat integrator", "EARoot/EA4/EA2/EA1/EA4/EA4440.htm", "4.png", "", "", "{4D61C517-1023-43f6-8D17-3D7E8CEB2870}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.1.5", "1", "Kontrol sistem integrasi", "EARoot/EA4/EA2/EA1/EA5/EA4451.htm", "4.png", "", "", "{DF203A12-6F43-4d78-BA5F-6D1AA4AE507F}", "Package");

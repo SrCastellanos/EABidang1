@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.2.7:1", "", "Use Case Bidang", "EARoot/EA2/EA2/EA7/EA4081.htm", "175.png", "1285641308", "0", "", "Logical diagram0","{CAA35948-D72C-415e-A0FB-9546E9E910DD}");
+tocTab[tocTab.length] = new Array("0.2.2.7.1", "1", "Bagian Akademik", "EARoot/EA2/EA2/EA7/EA1/EA4086.htm", "4.png", "", "", "{4A56CBE6-17A1-43f0-AAB0-83A41F71A425}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2.7.2", "1", "Bagian Kemahasiswaan", "EARoot/EA2/EA2/EA7/EA2/EA4138.htm", "4.png", "", "", "{1E3AB7FD-EF29-4e0a-8080-6125BF19134E}", "Package");

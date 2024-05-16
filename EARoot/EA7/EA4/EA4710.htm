@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Organization Decomposition Diagram</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> Organization Decomposition Diagram </h1>
+			<!-- <img class="header_image" src="../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../EA3.htm">Artifacts</a> / <a href="../EA4606.htm">Arsitektur Visi</a> / <a href="EA4712.htm">Organization Decomposition Diagram</a> / <a href="EA4710.htm">Organization Decomposition Diagram</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../images/175.png" alt="Diagram"/> <a href="EA4710.htm">Organization Decomposition Diagram</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4713.htm">Badan Pengelola Usaha, Bisnis, Komersial dan Analisis Resiko</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4714.htm">Badan Pengembangan SDM</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4715.htm">Badan Perencanaan dan Pengembangan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4716.htm">Biro Akademik dan Kemahasiswaan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4717.htm">Biro Inovasi dan Kerja Sama</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4718.htm">Biro Komunikasi dan Bisnis</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4719.htm">Biro Umum dan Keuangan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4720.htm">Dekan Fakultas/Sekolah</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4721.htm">Dewan Penasihat  Universitas</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4722.htm">Direktorat Akademik, Kemahasiswaan dan Alumni</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4723.htm">Direktorat Aset dan Perancangan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4724.htm">Direktorat Inovasi dan Kerja Sama Industri</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4725.htm">Direktorat Keuangan dan Akuntansi</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4726.htm">Direktorat Science Techno Park</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4727.htm">Direktorat Teknologi Informasi, Komunikasi dan Pelaporan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4728.htm">Kantor Hukum</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4729.htm">Kantor Kawasan Hutan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4730.htm">Kantor Kearsipan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4731.htm">Kantor Pemeringkatan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4732.htm">Kantor Pengadaan Barang dan Jasa</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4733.htm">Kantor Sekretariat dan Protokoler Universitas</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4734.htm">Kantor Urusan Internasional</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4735.htm">LP PSDKU</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4736.htm">LP2MP</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4737.htm">LPPM</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4738.htm">Manager Tata Usaha</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4739.htm">Rektor</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4740.htm">RSND</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4741.htm">SPI</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4742.htm">UPT K3L</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4743.htm">UPT Lab Terpadu</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4744.htm">UPT Perpustakaan dan UNDIP Press</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4745.htm">Wakil Dekan Akademik dan Kemahasiswaan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4746.htm">Wakil Dekan Sumber Daya</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4747.htm">Wakil Rektor I</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4748.htm">Wakil Rektor II</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4749.htm">Wakil Rektor III</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4750.htm">Wakil Rektor IV</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA4711.png" usemap="#EA4711" border="0" />
+
+<MAP NAME="EA4711">
+<area shape="rect" coords="939,923,1029,965" href="EA4738.htm" target="_self">
+<area shape="rect" coords="1035,852,1176,894" href="EA4746.htm" target="_self">
+<area shape="rect" coords="799,852,940,894" href="EA4745.htm" target="_self">
+<area shape="rect" coords="934,720,1035,763" href="EA4720.htm" target="_self">
+<area shape="rect" coords="1695,483,1811,525" href="EA4726.htm" target="_self">
+<area shape="rect" coords="1503,551,1593,593" href="EA4731.htm" target="_self">
+<area shape="rect" coords="1401,551,1491,593" href="EA4743.htm" target="_self">
+<area shape="rect" coords="1562,485,1678,527" href="EA4724.htm" target="_self">
+<area shape="rect" coords="1573,342,1655,384" href="EA4717.htm" target="_self">
+<area shape="rect" coords="1423,342,1477,384" href="EA4737.htm" target="_self">
+<area shape="rect" coords="1243,552,1333,594" href="EA4729.htm" target="_self">
+<area shape="rect" coords="1300,343,1369,385" href="EA4740.htm" target="_self">
+<area shape="rect" coords="1003,552,1147,594" href="EA4744.htm" target="_self">
+<area shape="rect" coords="1140,486,1256,528" href="EA4727.htm" target="_self">
+<area shape="rect" coords="1193,343,1275,385" href="EA4718.htm" target="_self">
+<area shape="rect" coords="1003,324,1099,386" href="EA4713.htm" target="_self">
+<area shape="rect" coords="873,560,960,601" href="EA4730.htm" target="_self">
+<area shape="rect" coords="752,560,839,601" href="EA4728.htm" target="_self">
+<area shape="rect" coords="696,619,783,660" href="EA4732.htm" target="_self">
+<area shape="rect" coords="637,560,724,601" href="EA4742.htm" target="_self">
+<area shape="rect" coords="805,619,907,660" href="EA4733.htm" target="_self">
+<area shape="rect" coords="536,466,652,508" href="EA4723.htm" target="_self">
+<area shape="rect" coords="408,466,524,508" href="EA4725.htm" target="_self">
+<area shape="rect" coords="773,339,855,386" href="EA4719.htm" target="_self">
+<area shape="rect" coords="469,324,565,386" href="EA4714.htm" target="_self">
+<area shape="rect" coords="575,324,671,386" href="EA4715.htm" target="_self">
+<area shape="rect" coords="151,560,238,601" href="EA4734.htm" target="_self">
+<area shape="rect" coords="1810,342,1879,384" href="EA4741.htm" target="_self">
+<area shape="rect" coords="731,169,835,210" href="EA4721.htm" target="_self">
+<area shape="rect" coords="255,466,371,508" href="EA4722.htm" target="_self">
+<area shape="rect" coords="297,341,378,388" href="EA4716.htm" target="_self">
+<area shape="rect" coords="145,341,199,388" href="EA4735.htm" target="_self">
+<area shape="rect" coords="73,341,127,388" href="EA4736.htm" target="_self">
+<area shape="rect" coords="1491,292,1554,349" href="EA4750.htm" target="_self">
+<area shape="rect" coords="1115,292,1178,349" href="EA4749.htm" target="_self">
+<area shape="rect" coords="689,292,752,349" href="EA4748.htm" target="_self">
+<area shape="rect" coords="214,292,277,349" href="EA4747.htm" target="_self">
+<area shape="rect" coords="939,121,1030,178" href="EA4739.htm" target="_self">
+<area shape="rect" coords="947,19,990,70" href="EA4752.htm" target="_self">
+<area shape="rect" coords="34,76,1902,1012" href="EA4753.htm" target="_self">
+<area shape="rect" coords="10,10,1926,1037" href="EA4751.htm" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">Organization Decomposition Diagram : Org Chart diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">10/12/2023 3:03:21 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">3/26/2024 3:35:04 AM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Paskah Prabu</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{295F1824-9616-4ea5-8C53-C4D92FA43A04}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

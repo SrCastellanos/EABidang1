@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>KPI</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> KPI </h1>
+			<!-- <img class="header_image" src="../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../EA3.htm">Artifacts</a> / <a href="../EA2831.htm">Arsitektur Bisnis</a> / <a href="EA4176.htm">KPI</a> / <a href="EA4172.htm">KPI</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../images/175.png" alt="Diagram"/> <a href="EA4172.htm">KPI</a></li>
+<li><img src="../../../images/189.png" alt="Diagram"/> <a href="EA4174.htm">KPI</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4178.htm">1. Akreditasi Institusi</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4179.htm">10. Jumlah prestasi
+mahasiswa juara
+pertama tingkat
+nasional</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4180.htm">11 .Jumlah prestasi
+mahasiswa juara
+pertama tingkat
+internasional</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4181.htm">12. Jumlah mahasiswa
+internasional</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4182.htm">13. Jumlah kerjasama pendidikan dengan PT lain</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4183.htm">14. Jumlah
+dosen/peneliti
+tamu dari DN
+bergelar doktor</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4184.htm">15. Jumlah
+dosen/peneliti
+tamu dari LN</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4185.htm">2. Jumlah Prodi Terakreditasi Unggul</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4186.htm">3. Jumlah prodi terakreditasi internasional</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4187.htm">4. Jumlah Prodi yang menawarkan program internasional</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4188.htm">49. Rasio jumlah
+dosen terhadap
+jumlah mahasiswa</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4189.htm">5. Jumlah mahasiswa berwirausaha</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4190.htm">52. Ketersediaan Fasilitas PBM (sarana) terstandar</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4191.htm">53. Ketersediaan fasilitas pendukung (prasarana)</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4192.htm">55. Opini laporan
+keuangan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4193.htm">56. Pelayanan Administrasi dan Perkantoran</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4194.htm">57. Ketepatan
+Penyampaian
+Laporan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4195.htm">6. Jumlah Proposal Program Kreativitas Mahasiswa (PKM) yang didanai dari alokasi pengajuan proposal yang diberikan DIKTI</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4196.htm">7. Jumlah mahasiswa lulus tepat waktu</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4197.htm">8. Persentase lulusan bersertifikat kompetensi dan profesi</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4198.htm">9. Persentase lulusan
+yang memperoleh
+pekerjaan dalam
+waktu 6 bulan</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA4199.htm">List of Elements in Diagram KPI</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA4173.png" usemap="#EA4173" border="0" />
+
+<MAP NAME="EA4173">
+<area shape="rect" coords="649,419,739,495" href="EA4191.htm" target="_self">
+<area shape="rect" coords="531,425,621,495" href="EA4190.htm" target="_self">
+<area shape="rect" coords="138,425,228,495" href="EA4192.htm" target="_self">
+<area shape="rect" coords="398,425,488,495" href="EA4194.htm" target="_self">
+<area shape="rect" coords="14,426,104,496" href="EA4188.htm" target="_self">
+<area shape="rect" coords="269,425,359,495" href="EA4193.htm" target="_self">
+<area shape="rect" coords="531,307,621,377" href="EA4184.htm" target="_self">
+<area shape="rect" coords="526,129,616,220" href="EA4183.htm" target="_self">
+<area shape="rect" coords="526,15,616,106" href="EA4182.htm" target="_self">
+<area shape="rect" coords="398,306,488,376" href="EA4181.htm" target="_self">
+<area shape="rect" coords="269,295,359,386" href="EA4180.htm" target="_self">
+<area shape="rect" coords="138,295,228,386" href="EA4179.htm" target="_self">
+<area shape="rect" coords="14,295,104,386" href="EA4198.htm" target="_self">
+<area shape="rect" coords="398,128,488,219" href="EA4197.htm" target="_self">
+<area shape="rect" coords="269,149,359,219" href="EA4196.htm" target="_self">
+<area shape="rect" coords="130,123,237,241" href="EA4195.htm" target="_self">
+<area shape="rect" coords="10,123,100,193" href="EA4189.htm" target="_self">
+<area shape="rect" coords="377,11,482,87" href="EA4187.htm" target="_self">
+<area shape="rect" coords="255,11,345,81" href="EA4186.htm" target="_self">
+<area shape="rect" coords="139,10,229,80" href="EA4185.htm" target="_self">
+<area shape="rect" coords="14,10,104,80" href="EA4178.htm" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">KPI : Class diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">1/15/2024 12:52:24 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">5/7/2024 8:29:31 AM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">windows</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{B107BB07-EE30-4254-B125-33EE78D63E1D}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

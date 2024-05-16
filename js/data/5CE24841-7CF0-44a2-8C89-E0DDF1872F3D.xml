@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.3.2:1", "", "Data Principle", "EARoot/EA3/EA2/EA4303.htm", "175.png", "87", "0", "", "Logical diagram0","{10D27806-BB2C-4525-86A8-DB84BE3CEF50}");
+tocTab[tocTab.length] = new Array("0.3.2:2", "", "«Principle» Data dapat Dianalisis", "EARoot/EA3/EA2/EA4306.htm", "5.png", "E1168", "0", "", "Class0","{5E788C97-927E-4718-B26A-D580311ABE5E}");
+tocTab[tocTab.length] = new Array("0.3.2:3", "", "«Principle» Keamanan Data", "EARoot/EA3/EA2/EA4308.htm", "5.png", "E1165", "0", "", "Class0","{36A5E8BE-4BB3-47d4-85B6-417A91D6BA43}");
+tocTab[tocTab.length] = new Array("0.3.2:4", "", "«Principle» Tidak ada Duplikasi Data", "EARoot/EA3/EA2/EA4309.htm", "5.png", "E1166", "0", "", "Class0","{F04C7898-0EFF-4bca-A6AE-B4B0C2939C59}");
+tocTab[tocTab.length] = new Array("0.3.2:5", "", "«Principle» Validitas Data", "EARoot/EA3/EA2/EA4310.htm", "5.png", "E1167", "0", "", "Class0","{638D6C20-C1E1-4c22-A222-6649C97BE345}");

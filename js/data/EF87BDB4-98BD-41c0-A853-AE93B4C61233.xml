@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.4.3:1", "", "Security Principles", "EARoot/EA4/EA3/EA4468.htm", "188.png", "1680269506", "0", "", "Custom diagram0","{76C69C12-A50F-41c5-A62A-3E519CFE976A}");
+tocTab[tocTab.length] = new Array("0.4.3:2", "", "«Principle» Accountability", "EARoot/EA4/EA3/EA4471.htm", "5.png", "E150908139", "0", "", "Class0","{A668F344-97A0-49e4-B733-C803B9739FBE}");
+tocTab[tocTab.length] = new Array("0.4.3:3", "", "«Principle» Access Control", "EARoot/EA4/EA3/EA4473.htm", "5.png", "E1283739148", "0", "", "Class0","{3593C7AB-7A73-4877-8E8C-712EC10F053B}");
+tocTab[tocTab.length] = new Array("0.4.3:4", "", "«Principle» Availability", "EARoot/EA4/EA3/EA4474.htm", "5.png", "E683610182", "0", "", "Class0","{A2B3C9E5-79BC-413e-9EFA-E376D3580CD5}");
+tocTab[tocTab.length] = new Array("0.4.3:5", "", "«Principle» Confodentiality", "EARoot/EA4/EA3/EA4475.htm", "5.png", "E1621220876", "0", "", "Class0","{5DC354EB-E445-4fb0-A7FB-E9C5390F0A52}");
+tocTab[tocTab.length] = new Array("0.4.3:6", "", "«Principle» Integrity", "EARoot/EA4/EA3/EA4476.htm", "5.png", "E1167648548", "0", "", "Class0","{1EC6A590-315F-4fcb-BBFD-FF6AA1BD1543}");

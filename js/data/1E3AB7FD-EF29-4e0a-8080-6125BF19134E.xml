@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.2.7.2.1", "1", "Pengelolaan Kesejahteraan Mahasiswa dan Layanan Alumni", "EARoot/EA2/EA2/EA7/EA2/EA1/EA4144.htm", "4.png", "", "", "{40DB6C97-050E-47c3-B180-8F556745AFA1}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2.7.2.2", "1", "Pengelolaan Pembinaar Karir, Layanan dan Informasi Kemahasiswaan", "EARoot/EA2/EA2/EA7/EA2/EA2/EA4156.htm", "4.png", "", "", "{1963DD0A-4AF7-4fe6-BE38-17987DE7C689}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2.7.2.3", "1", "Pengelolaan Pengembangan Minat, Penalaran dan Prestasi Mahasiswa", "EARoot/EA2/EA2/EA7/EA2/EA3/EA4165.htm", "4.png", "", "", "{6B139466-393F-4cc8-80B2-BD53F3F367A0}", "Package");

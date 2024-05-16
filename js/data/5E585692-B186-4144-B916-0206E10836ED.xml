@@ -1,0 +1,16 @@
+tocTab[tocTab.length] = new Array("0.1.1.4:1", "", "SIAP", "EARoot/EA1/EA1/EA4/EA744.htm", "175.png", "202332381", "0", "", "Logical diagram0","{2AA2E33C-C0ED-47d3-AD1B-8EF01AEE336D}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1", "1", "Actor", "EARoot/EA1/EA1/EA4/EA1/EA762.htm", "4.png", "", "", "{E7584FCF-2058-410f-A6C1-B6948F435A89}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.2", "1", "SIAP-Evaluasi EPBM", "EARoot/EA1/EA1/EA4/EA2/EA787.htm", "4.png", "", "", "{F3C89CC5-2D93-46d9-95E1-2B99C2E4161A}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.3", "1", "SIAP-Kelulusan-Azies", "EARoot/EA1/EA1/EA4/EA3/EA856.htm", "4.png", "", "", "{84B0E577-0DEE-4f22-A758-5BF3DA77E694}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.4", "1", "SIAP-Konversi MBKM", "EARoot/EA1/EA1/EA4/EA4/EA1051.htm", "4.png", "", "", "{4ABB367D-F1E8-4c71-8AF8-84263EE8706B}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.5", "1", "SIAP-Modul Ijazah", "EARoot/EA1/EA1/EA4/EA5/EA1093.htm", "4.png", "", "", "{0800B79D-9FE4-4f14-A5D2-CBD7845F0A39}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.6", "1", "SIAP-Modul Nilai", "EARoot/EA1/EA1/EA4/EA6/EA1152.htm", "4.png", "", "", "{1F68E772-40CF-4402-A0A3-7082E5FA3AB0}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.7", "1", "SIAP-Modul Penjadwalan MK Modul-Nur-Weny DW", "EARoot/EA1/EA1/EA4/EA7/EA1208.htm", "4.png", "", "", "{ACFDD167-BD80-4830-8D1C-1F88807052E1}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.8", "1", "SIAP-modul Profil Prodi_Fuji Draw", "EARoot/EA1/EA1/EA4/EA8/EA1275.htm", "4.png", "", "", "{723343E0-F42E-44b0-A0F6-4A5B40967404}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.9", "1", "SIAP-Pendaftaran Wisuda-widi", "EARoot/EA1/EA1/EA4/EA9/EA1323.htm", "4.png", "", "", "{7FC66554-982B-479d-8E4C-47C585AEE3AE}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.10", "1", "SIAP-PTM Hybrid-fahmy aziz", "EARoot/EA1/EA1/EA4/EA10/EA1363.htm", "4.png", "", "", "{D1199956-3742-42d4-A5BF-6D87272694CA}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.11", "1", "SIAP-Review Layanan Mahasiswa-Azies", "EARoot/EA1/EA1/EA4/EA11/EA1423.htm", "4.png", "", "", "{08279BAA-9922-491a-A2EE-7A448006DCCE}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.12", "1", "SIAP-SKPI-Azies", "EARoot/EA1/EA1/EA4/EA12/EA1508.htm", "4.png", "", "", "{688C9BCE-A095-4ace-AB74-6EADC6916733}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.13", "1", "SIAP-Tugas Akhir", "EARoot/EA1/EA1/EA4/EA13/EA1595.htm", "4.png", "", "", "{D0C89B4B-EE54-48ae-85AA-CE5F79211925}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.14", "1", "SIAP-Update Role_Azies", "EARoot/EA1/EA1/EA4/EA14/EA1645.htm", "4.png", "", "", "{208E53DF-41BA-45d7-958B-526EA3DFADCF}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.15", "1", "SIAP-Interfacing KULON-Weny Draw", "EARoot/EA1/EA1/EA4/EA15/EA1681.htm", "4.png", "", "", "{D40B8E15-9A1D-41c4-80FC-89522689DA3D}", "Package");

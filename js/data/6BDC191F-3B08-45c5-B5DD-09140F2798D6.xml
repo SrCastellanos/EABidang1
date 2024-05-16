@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0:1", "", "Home", "EARoot/EA1.htm", "188.png", "1632166462", "0", "", "Custom diagram0","{20F763C1-1F6B-48cb-AA96-5EB32A6CCD82}");
+tocTab[tocTab.length] = new Array("0.1", "1", "Arsitektur Aplikasi", "EARoot/EA1/EA80.htm", "4.png", "", "", "{7F3967B3-01A9-41e6-BFAC-F46651819416}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Arsitektur Bisnis", "EARoot/EA2/EA2831.htm", "4.png", "", "", "{7251DE49-26BC-41cb-8D6D-A31A37CF5673}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Arsitektur Data", "EARoot/EA3/EA4253.htm", "4.png", "", "", "{7878F6D4-38FC-458a-B3D9-009B3BC8F9A9}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "Arsitektur Keamanan", "EARoot/EA4/EA4311.htm", "4.png", "", "", "{DEFE8636-4DFA-4e43-B41B-4407C78D7F91}", "Package");
+tocTab[tocTab.length] = new Array("0.5", "1", "Arsitektur Layanan", "EARoot/EA5/EA4479.htm", "4.png", "", "", "{55B4C47E-F776-4575-B26C-7277CE913C9B}", "Package");
+tocTab[tocTab.length] = new Array("0.6", "1", "Arsitektur Teknologi", "EARoot/EA6/EA4502.htm", "4.png", "", "", "{93C1583D-41C7-482b-84F2-B73C3508347A}", "Package");
+tocTab[tocTab.length] = new Array("0.7", "1", "Arsitektur Visi", "EARoot/EA7/EA4606.htm", "4.png", "", "", "{51ED41F9-51A1-42eb-ACE4-9D2FACEA86C0}", "Package");

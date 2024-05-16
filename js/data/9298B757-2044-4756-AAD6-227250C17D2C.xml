@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.1.4.9.1:1", "", "ClassDiagram Pendaftaran Wisuda", "EARoot/EA1/EA1/EA4/EA9/EA1/EA1347.htm", "175.png", "1289034388", "0", "", "Logical diagram0","{12D82378-3878-4110-BDE9-7C1CD27ED5AF}");
+tocTab[tocTab.length] = new Array("0.1.1.4.9.1:2", "", "Fakultas", "EARoot/EA1/EA1/EA4/EA9/EA1/EA1350.htm", "5.png", "E1107889086", "0", "", "Class0","{AD01923E-EEBA-423a-8C02-C8398BA55E37}");
+tocTab[tocTab.length] = new Array("0.1.1.4.9.1:3", "", "prodi", "EARoot/EA1/EA1/EA4/EA9/EA1/EA1351.htm", "5.png", "E105324087", "0", "", "Class0","{662EC354-67CE-4eb8-8D83-A46055C5734A}");
+tocTab[tocTab.length] = new Array("0.1.1.4.9.1:4", "", "trx_alumni", "EARoot/EA1/EA1/EA4/EA9/EA1/EA1352.htm", "5.png", "E40931647", "0", "", "Class0","{DF10AF0A-0AB8-4781-AF65-A00162D73BCF}");

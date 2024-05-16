@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.1.1.6:1", "", "Website Prestasi Mahasiswa", "EARoot/EA1/EA1/EA6/EA1903.htm", "175.png", "622431894", "0", "", "Logical diagram0","{E16E55EE-BCB6-46bc-85F0-71AF7D667ECA}");
+tocTab[tocTab.length] = new Array("0.1.1.6:2", "", "BAK", "EARoot/EA1/EA1/EA6/EA1907.htm", "6.png", "E1011306140", "0", "", "Actor0","{7AF6F9A6-7B00-409d-BE60-00C6764EE735}");
+tocTab[tocTab.length] = new Array("0.1.1.6:3", "", "FAKULTAS", "EARoot/EA1/EA1/EA6/EA1908.htm", "6.png", "E1066816206", "0", "", "Actor0","{CA82053F-8BBE-4813-8B94-8D2DAE1F53D1}");
+tocTab[tocTab.length] = new Array("0.1.1.6.1", "", "Actors", "EARoot/EA1/EA1/EA6/EA1/EA1919.htm", "4.png", "", "", "{B23FB0E6-2FE6-44a2-9663-6EB09CEB53B3}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.6.2", "1", "Kegiatan Mandiri", "EARoot/EA1/EA1/EA6/EA2/EA1934.htm", "4.png", "", "", "{D8C2AAC5-9057-4134-8A05-B08C2AC7DAFE}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.6.3", "1", "Kegiatan Non Lomba", "EARoot/EA1/EA1/EA6/EA3/EA1997.htm", "4.png", "", "", "{4621B215-7061-4522-AA36-1C0939CFB672}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.6.4", "1", "Modul Magang", "EARoot/EA1/EA1/EA6/EA4/EA2060.htm", "4.png", "", "", "{79F751C8-B4C2-4831-BEE5-0B8D39A6E54F}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.6.5", "1", "Modul Mengajar", "EARoot/EA1/EA1/EA6/EA5/EA2121.htm", "4.png", "", "", "{885BD451-4FAD-4647-87FF-3A0DDA4E09DA}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.6.6", "1", "Modul Mental Kebangsaan", "EARoot/EA1/EA1/EA6/EA6/EA2170.htm", "4.png", "", "", "{0FD2BB60-8BA1-48a5-9DE3-120361253A7C}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.6.7", "1", "Modul Penelitian", "EARoot/EA1/EA1/EA6/EA7/EA2185.htm", "4.png", "", "", "{E65960BD-5CA9-4392-BAB9-5E1B2063CD4B}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.6.8", "1", "Modul Proyek Desa", "EARoot/EA1/EA1/EA6/EA8/EA2231.htm", "4.png", "", "", "{8FBC8CB0-B4C7-44dd-9AB8-69A6335ED527}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.6.9", "1", "Modul Proyek Independen", "EARoot/EA1/EA1/EA6/EA9/EA2288.htm", "4.png", "", "", "{0F67C8B9-77F0-49bd-A765-E1F5991ACD8B}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.6.10", "1", "Modul Proyek Kemanusiaan", "EARoot/EA1/EA1/EA6/EA10/EA2323.htm", "4.png", "", "", "{101F3418-1007-491e-8B69-E24FCA4633BC}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.6.11", "1", "Modul User SSO", "EARoot/EA1/EA1/EA6/EA11/EA2330.htm", "4.png", "", "", "{9E659DB0-5F6C-40a0-B368-51D29349B2AA}", "Package");

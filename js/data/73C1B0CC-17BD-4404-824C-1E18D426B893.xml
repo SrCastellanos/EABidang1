@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.1.4.12.1:1", "", "ClassDiagram SKPI", "EARoot/EA1/EA1/EA4/EA12/EA1/EA1575.htm", "175.png", "1374927167", "0", "", "Logical diagram0","{19664829-F85F-439f-933E-8E1ACB33F38E}");
+tocTab[tocTab.length] = new Array("0.1.1.4.12.1:2", "", "index(view)", "EARoot/EA1/EA1/EA4/EA12/EA1/EA1578.htm", "5.png", "E956886962", "0", "", "Class0","{5F3A057A-E8E7-487c-99D0-1ED7DB0246C7}");
+tocTab[tocTab.length] = new Array("0.1.1.4.12.1:3", "", "SKPI cetak internasional(view)", "EARoot/EA1/EA1/EA4/EA12/EA1/EA1579.htm", "5.png", "E850088229", "0", "", "Class0","{94080537-244F-4d9b-A4E3-FFF3649C1CA9}");
+tocTab[tocTab.length] = new Array("0.1.1.4.12.1:4", "", "SKPI cetak(view)", "EARoot/EA1/EA1/EA4/EA12/EA1/EA1580.htm", "5.png", "E477255951", "0", "", "Class0","{05E7C128-45B8-4cd3-9C54-770A3DE8320F}");
+tocTab[tocTab.length] = new Array("0.1.1.4.12.1:5", "", "SKPI(controller)", "EARoot/EA1/EA1/EA4/EA12/EA1/EA1581.htm", "5.png", "E187908327", "0", "", "Class0","{70D63C8B-1A46-4598-9C8C-7E92CDD98951}");
+tocTab[tocTab.length] = new Array("0.1.1.4.12.1:6", "", "trx SKPI publikasi DB", "EARoot/EA1/EA1/EA4/EA12/EA1/EA1582.htm", "5.png", "E81410009", "0", "", "Class0","{E848E817-4C4C-4fe5-8CBB-D0C74E836E3A}");

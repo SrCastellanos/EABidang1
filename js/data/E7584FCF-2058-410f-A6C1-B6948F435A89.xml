@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.1.1.4.1:1", "", "Admin", "EARoot/EA1/EA1/EA4/EA1/EA763.htm", "6.png", "E758933771", "0", "", "Actor0","{A9134D62-48BB-4c07-AB43-21724DC1EEDF}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1:2", "", "Dekan", "EARoot/EA1/EA1/EA4/EA1/EA764.htm", "6.png", "E1387483649", "0", "", "Actor0","{5C285970-A8A2-4639-8BC8-D2972555EF26}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1:3", "", "Kaprodi", "EARoot/EA1/EA1/EA4/EA1/EA765.htm", "6.png", "E964366814", "0", "", "Actor0","{9D741459-9B66-4f53-83F0-2EEC7A67CBCB}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1:4", "", "Mahasiswa", "EARoot/EA1/EA1/EA4/EA1/EA766.htm", "6.png", "E542960778", "0", "", "Actor0","{6C0CA60C-0D84-418d-AF09-B704CCDE5159}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1:5", "", "Manajer Keuangan", "EARoot/EA1/EA1/EA4/EA1/EA767.htm", "6.png", "E1153230580", "0", "", "Actor0","{7DB75640-62A8-48a8-8A05-9938013AA74E}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1:6", "", "Opeator Keuangan Fakultas", "EARoot/EA1/EA1/EA4/EA1/EA768.htm", "6.png", "E117652622", "0", "", "Actor0","{26228EF1-C41E-42c7-B90D-A9EDC1EFC4A9}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1:7", "", "Operator BAA", "EARoot/EA1/EA1/EA4/EA1/EA769.htm", "6.png", "E1020558094", "0", "", "Actor0","{8F08C9A5-AED2-4622-8324-A85EC0A70F08}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1:8", "", "Operator Fakultas ", "EARoot/EA1/EA1/EA4/EA1/EA770.htm", "6.png", "E259359198", "0", "", "Actor0","{B3D5D22E-146E-48bc-88B8-366207E198AB}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1:9", "", "Operator Keuangan Univ", "EARoot/EA1/EA1/EA4/EA1/EA771.htm", "6.png", "E610811613", "0", "", "Actor0","{909333FF-FC1B-4443-B58E-4ABD0ED6D0BA}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1:10", "", "Operator prodi", "EARoot/EA1/EA1/EA4/EA1/EA772.htm", "6.png", "E594693904", "0", "", "Actor0","{1E7C24ED-E75E-4ed6-886F-5717614F7527}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1:11", "", "Sistem ", "EARoot/EA1/EA1/EA4/EA1/EA773.htm", "6.png", "E1474711078", "0", "", "Actor0","{F488A04A-C619-4d24-A657-F235F3264E77}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1:12", "", "SPV Akademik", "EARoot/EA1/EA1/EA4/EA1/EA774.htm", "6.png", "E263616", "0", "", "Actor0","{B89CFBEE-35E7-467a-A604-49ABAB6D58F7}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1:13", "", "SPV Akademik Fakultas", "EARoot/EA1/EA1/EA4/EA1/EA775.htm", "6.png", "E728443853", "0", "", "Actor0","{C657AA91-AFEA-4223-BA83-F95D0E612DAD}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1:14", "", "Spv Keuangan Univ", "EARoot/EA1/EA1/EA4/EA1/EA776.htm", "6.png", "E1646269801", "0", "", "Actor0","{3499433C-5C74-4355-A9A9-9F10CDF3F7C4}");

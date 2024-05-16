@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.1.1.8.3:1", "", "Admin Pokja Fakultas", "EARoot/EA1/EA1/EA8/EA3/EA2448.htm", "6.png", "E454967743", "0", "", "Actor0","{695D512E-CBC8-45d0-B1D8-9B6B1B395238}");
+tocTab[tocTab.length] = new Array("0.1.1.8.3:2", "", "Dekan", "EARoot/EA1/EA1/EA8/EA3/EA2449.htm", "6.png", "E323032086", "0", "", "Actor0","{175BFE4B-C2B3-4d84-94C3-3B5F4D3EAC20}");
+tocTab[tocTab.length] = new Array("0.1.1.8.3:3", "", "Ketua Pokja", "EARoot/EA1/EA1/EA8/EA3/EA2450.htm", "6.png", "E1679266416", "0", "", "Actor0","{5F71A5BE-2020-4ce9-A17E-5ACA8BC2C217}");
+tocTab[tocTab.length] = new Array("0.1.1.8.3:4", "", "Keuangan ", "EARoot/EA1/EA1/EA8/EA3/EA2451.htm", "6.png", "E998624122", "0", "", "Actor0","{48DB62C3-BBBD-4b39-93AE-CC8B406B2291}");
+tocTab[tocTab.length] = new Array("0.1.1.8.3:5", "", "Mahasiswa", "EARoot/EA1/EA1/EA8/EA3/EA2452.htm", "6.png", "E13207534", "0", "", "Actor0","{CBE05D08-FEB1-4cc4-9EF7-EA1F91CB1E8F}");
+tocTab[tocTab.length] = new Array("0.1.1.8.3:6", "", "Manajer Keuangan", "EARoot/EA1/EA1/EA8/EA3/EA2453.htm", "6.png", "E1442191613", "0", "", "Actor0","{857A7860-951C-42e0-BE0B-865571815260}");
+tocTab[tocTab.length] = new Array("0.1.1.8.3:7", "", "Pokja Fakultas", "EARoot/EA1/EA1/EA8/EA3/EA2455.htm", "6.png", "E2044068003", "0", "", "Actor0","{839DA372-92BA-4e57-8B18-C21FCC66D230}");
+tocTab[tocTab.length] = new Array("0.1.1.8.3:8", "", "Sistem", "EARoot/EA1/EA1/EA8/EA3/EA2456.htm", "6.png", "E1595640053", "0", "", "Actor0","{0958C8C1-20C4-4472-8F73-7B733109E181}");
+tocTab[tocTab.length] = new Array("0.1.1.8.3:9", "", "SPV Keuangan", "EARoot/EA1/EA1/EA8/EA3/EA2457.htm", "6.png", "E367362479", "0", "", "Actor0","{924A90EA-E71B-4654-9043-118F6D12FE4C}");
+tocTab[tocTab.length] = new Array("0.1.1.8.3:10", "", "WD2", "EARoot/EA1/EA1/EA8/EA3/EA2460.htm", "6.png", "E1823723941", "0", "", "Actor0","{BB2D9AB9-5FBD-4bcb-9A40-01C86EEA0D54}");
+tocTab[tocTab.length] = new Array("0.1.1.8.3:11", "", "WR2", "EARoot/EA1/EA1/EA8/EA3/EA2461.htm", "6.png", "E1179918151", "0", "", "Actor0","{123C8436-FAB2-4e2a-975E-31F238FADE5C}");
+tocTab[tocTab.length] = new Array("0.1.1.8.3.1", "1", "Nominal UKT-Andy", "EARoot/EA1/EA1/EA8/EA3/EA1/EA2473.htm", "4.png", "", "", "{C5566FE4-4876-4da0-97D7-405F840B8227}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.8.3.2", "1", "UKT Keberatan Non UM-Danang", "EARoot/EA1/EA1/EA8/EA3/EA2/EA2537.htm", "4.png", "", "", "{ADF9F3FD-25DD-47fa-986A-C5EC9AC0AE87}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.8.3.3", "1", "UKT Penetapan-Danang", "EARoot/EA1/EA1/EA8/EA3/EA3/EA2670.htm", "4.png", "", "", "{8B45773F-41C5-4e24-8F6C-EF42EA1CA036}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.8.3.4", "1", "UKT-Keberatan SPI-Andy", "EARoot/EA1/EA1/EA8/EA3/EA4/EA2785.htm", "4.png", "", "", "{9D192049-88FE-418b-AABF-F8DADC4DF6DA}", "Package");

@@ -1,0 +1,176 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Cyber Security Procedure</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> Cyber Security Procedure </h1>
+			<!-- <img class="header_image" src="../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../EA3.htm">Artifacts</a> / <a href="../EA4311.htm">Arsitektur Keamanan</a> / <a href="EA4317.htm">Cyber Security Procedure</a> / <a href="EA4315.htm">Cyber Security Procedure</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../images/4.png" alt="Package"/> <a href="./EA1/EA4347.htm">1. Identifikasi Keamanan Sistem</a></li>
+<li><img src="../../../images/4.png" alt="Package"/> <a href="./EA2/EA4365.htm">2. Tindakan Keamanan Siber</a></li>
+<li><img src="../../../images/4.png" alt="Package"/> <a href="./EA3/EA4379.htm">3. Pemulihan dan Restorasi</a></li>
+<li><img src="../../../images/4.png" alt="Package"/> <a href="./EA4/EA4380.htm">4. Evaluasi Kejadian dan Kolaborasi</a></li>
+<li><img src="../../../images/4.png" alt="Package"/> <a href="./EA5/EA4381.htm">5. Tindakan Pencegahan</a></li>
+<li><img src="../../../images/4.png" alt="Package"/> <a href="./EA6/EA4382.htm">Actor</a></li>
+<li><img src="../../../images/4.png" alt="Package"/> <a href="./EA7/EA4384.htm">Data</a></li>
+<li><img src="../../../images/189.png" alt="Diagram"/> <a href="EA4315.htm">Cyber Security Procedure</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA4325.htm">Aplikasi</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA4326.htm">Data</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA4327.htm">KPI</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA4328.htm">Prosedur Respon Insiden Keamanan Siber</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA4329.htm">Risiko</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA4330.htm">Standar dan Regulasi</a></li>
+<li><img src="../../../images/116.png" alt="ActivityPartition"/> <a href="EA4331.htm">Strategi dan Program</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA4316.png" usemap="#EA4316" border="0" />
+
+<MAP NAME="EA4316">
+<area shape="rect" coords="1557,807,1587,837" href="EA4332.htm" target="_self">
+<area shape="rect" coords="99,800,129,830" href="EA4340.htm" target="_self">
+<area shape="rect" coords="173,601,263,671" href="./EA7/EA4385.htm" target="_self">
+<area shape="rect" coords="1400,778,1510,856" href="EA4338.htm" target="_self">
+<area shape="rect" coords="1255,778,1365,856" href="EA4337.htm" target="_self">
+<area shape="rect" coords="1110,778,1220,856" href="EA4335.htm" target="_self">
+<area shape="rect" coords="965,778,1075,856" href="EA4343.htm" target="_self">
+<area shape="rect" coords="820,778,930,856" href="EA4333.htm" target="_self">
+<area shape="rect" coords="675,778,785,856" href="EA4339.htm" target="_self">
+<area shape="rect" coords="530,778,640,856" href="./EA2/EA4363.htm" target="_self">
+<area shape="rect" coords="385,778,495,856" href="./EA1/EA4345.htm" target="_self">
+<area shape="rect" coords="308,796,350,838" href="EA4341.htm" target="_self">
+<area shape="rect" coords="163,778,273,856" href="EA4336.htm" target="_self">
+<area shape="rect" coords="1265,601,1355,671" href="./EA7/EA4386.htm" target="_self">
+<area shape="rect" coords="41,735,1622,900" href="EA4344.htm" target="_self">
+<area shape="rect" coords="10,10,1622,176" href="EA4331.htm" target="_self">
+<area shape="rect" coords="11,1096,1623,1262" href="EA4327.htm" target="_self">
+<area shape="rect" coords="10,915,1622,1081" href="EA4329.htm" target="_self">
+<area shape="rect" coords="10,191,1622,357" href="EA4330.htm" target="_self">
+<area shape="rect" coords="10,372,1622,538" href="EA4325.htm" target="_self">
+<area shape="rect" coords="10,553,1622,719" href="EA4326.htm" target="_self">
+<area shape="rect" coords="10,734,1622,900" href="EA4328.htm" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">Cyber Security Procedure : Business Process diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">1/26/2024 1:56:15 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">2/25/2024 1:42:28 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Paskah Prabu</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{1CBFC933-7C17-4b8a-8FFB-A4DA61551826}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+
